@@ -23,31 +23,35 @@
       "name": "Java with Data Structures",
       "venue":"DTU, New Delhi",
       "tPrice":"100",
-      "timmings":"10",
-      "phone":"...."
+      "date":"10/06/2020"
+      "timmings":"12pm to 3pm",
+      "phone":"7589631205"
     },
         {
       "id": 4,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Machine Learning Workshop ",
+      "venue":"BVIMR , Pashim Vihar, New Delhi ",
+      "tPrice":"1000",
+      "date":"15/06/2020",
+      "timmings":"9am to 5pm",
+      "phone":"8527639442"
     },{
       "id": 5,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "MEAN STACK Workshop",
+      "venue":"IIT Delhi",
+      "tPrice":"500",
+      "date":"20/06/2020",
+      "timmings":"9am to 10pm",
+      "phone":"7418529630"
     },
         {
       "id": 6,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Data Science Workshop",
+      "venue":"Vellore Institute of Technology,Tamil Nadu",
+      "tPrice":"1000",
+      "date":"26/06/2020",
+      "timmings":"9am to 5pm",
+      "phone":"9657422310"
     }
   ]
 }
