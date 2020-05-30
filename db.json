@@ -2,28 +2,28 @@
   "events": [
     {
       "id": 1,
-      "name": "hello",
+      "eventName": "hello",
       "Venue":"...",
       "Tprice":"...",
       "Timmings":"...."
     },
     {
       "id": 2,
-      "name": "hello",
+      "eventName": "hello",
       "Venue":"...",
       "Tprice":"...",
       "Timmings":"...."
     },
     {
       "id": 3,
-      "name": "hello",
+      "eventName": "hello",
       "Venue":"...",
       "Tprice":"...",
       "Timmings":"...."
     },
     {
       "id": 4,
-      "name": "hello",
+      "eventName": "hello",
       "Venue":"...",
       "Tprice":"...",
       "Timmings":"...."
