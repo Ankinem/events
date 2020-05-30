@@ -5,29 +5,29 @@
       "name": "hello",
       "Venue":"...",
       "Tprice":"...",
-      "Timmings":"....",
+      "Timmings":"...."
     },
     {
       "id": 2,
       "name": "hello",
       "Venue":"...",
       "Tprice":"...",
-      "Timmings":"....",
+      "Timmings":"...."
     },
     {
       "id": 3,
       "name": "hello",
       "Venue":"...",
       "Tprice":"...",
-      "Timmings":"....",
+      "Timmings":"...."
     },
     {
       "id": 4,
       "name": "hello",
       "Venue":"...",
       "Tprice":"...",
-      "Timmings":"....",
+      "Timmings":"...."
     }
-  ],
+  ]
   
 }
