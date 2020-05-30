@@ -1,18 +1,9 @@
-
-
-
-
 {
-  "events": [
+  "eventss": [
     {
-      
       "id": 1,
-      "name": "",
-      "venue":"...",
-      "tPrice":"...",
-      "timmings":"....",
-      "phone":"123456789"
-    },
+      "title": "hello"
+    }
   ],
   
 }
