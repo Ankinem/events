@@ -6,7 +6,15 @@
       "venue":"ABC",
       "tPrice":"..",
       "timmings":"...",
-      "phone":"....",
+      "phone":"...."
+    },
+        {
+      "id": 1,
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
     }
   ]
 }
