@@ -2,7 +2,11 @@
   "events": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
     }
   ]
 }
