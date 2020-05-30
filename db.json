@@ -1,11 +1,33 @@
 {
-  "posts": [
+  "events": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timmings":"....",
+    },
+    {
+      "id": 2,
+      "name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timmings":"....",
+    },
+    {
+      "id": 3,
+      "name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timmings":"....",
+    },
+    {
+      "id": 4,
+      "name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timmings":"....",
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
