@@ -2,26 +2,28 @@
   "events": [
     {
       "id": 1,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Code Bake",
+      "venue":"Lovely Professional University,Phagwara Punjab",
+      "tPrice":"200",
+      "date":"25/07/2020",
+      "timmings":"10am to 5pm",
+      "phone":"7845612211"
     },
         {
       "id": 2,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Web Development Quiz",
+      "venue":"Amity University , Noida, Uttar Pradesh ",
+      "tPrice":"500",
+      "timmings":"2 pm to 5pm",
+      "date":"26/06/2020",
+      "phone":"8536887563"
     },
     {
       "id": 3,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
+      "name": "Java with Data Structures",
+      "venue":"DTU, New Delhi",
+      "tPrice":"100",
+      "timmings":"10",
       "phone":"...."
     },
         {
